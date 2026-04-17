@@ -1,61 +1,88 @@
-# Privacy policy
+# Privacy Policy
 
-Eduardo Salinas Marquez built the 2D6 app as a Free app. This SERVICE is provided by Eduardo Salinas Marquez at no cost and is intended for use as is.
+**Last updated:** April 17, 2026
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+## Overview
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+2d6 Dice Roller is designed with your privacy in mind. This policy explains what data we collect — and the short answer is: none.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at 2D6 unless otherwise defined in this Privacy Policy.
+## Data Collection
 
-# Information Collection and Use
+We do not collect, store, transmit, or share any personal information. This includes:
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+- No account registration or login
+- No names, email addresses, or contact information
+- No location data
+- No device identifiers or analytics
+- No usage tracking or crash reporting sent to us
 
-The app does not use third party services to collect information in any way.
+## Third-Party Services
 
-# Log Data
+2d6 Dice Roller does not integrate with any third-party analytics, advertising, or data platforms.
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+## Children's Privacy
 
-# Cookies
+Because we collect no data whatsoever, 2d6 Dice Roller is safe for users of all ages.
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+## Changes to This Policy
 
-This Service does not use these “cookies”.
+If this policy ever changes, the updated version will be posted here with a new date at the top.
 
-# Service Providers
+## Contact
 
-I may employ third-party companies and individuals due to the following reasons:
+Have a question or spotted a bug? Fill out the form below and I'll get back to you within a few days.
+[Contact & Support Form](https://forms.gle/RSdsMrnps7dDd3QE9)
 
-To facilitate our Service;
-To provide the Service on our behalf;
-To perform Service-related services; or
-To assist us in analyzing how our Service is used.
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+---
 
-# Security
+# Frequently Asked Questions
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+## General
 
-# Links to Other Sites
+**What is 2d6 Dice Roller?**
+2d6 Dice Roller is a free app for rolling virtual dice. You can roll standard dice types: D2, D4, D6, D8, D10, D20, and D100. You can also save your favorite combinations as Dice Sets for quick access.
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+**Is the app free?**
+Yes, 2d6 Dice Roller is completely free with no in-app purchases.
 
-# Children’s Privacy
+**Do I need to create an account?**
+No. There is no account, login, or sign-up required. Just open the app and roll.
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+---
 
-# Changes to This Privacy Policy
+## Dice Sets
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+**What are Dice Sets?**
+Dice Sets let you save your favorite dice combinations so you can jump straight into any game. For example, you could save a set for D&D combat, one for Yahtzee, and another for a board game night.
 
-# Contact Us
+**How do I create a Dice Set?**
+Tap the Dice Sets icon in the toolbar, then tap **+** to create a new set. Choose your dice types and quantities, give it a name, and save.
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
+**Can I edit or delete a Dice Set?**
+Yes. Swipe left on any set to show the edit and delete actions. Tapping on edit will bring up the form so you can update the name or the dice amount.
 
-This privacy policy page was created at privacypolicytemplate.net and modified/generated by App Privacy Policy Generator
+**Are my Dice Sets backed up?**
+Dice Sets are stored locally on your device. They are not synced to the cloud or any external server.
 
-# Support
+---
 
-If you need assistance with the app, leave a review on the App Store and I'll gladly take a look at it.
+## Rolling
+
+**How do I roll the dice?**
+Tap anywhere on the scene to roll. The dice will tumble and settle, so you can see the results. For convenience, you can also choose to have the results displayed on the screen. From the "..." button, select Results, and then choose the option you want.
+
+**Can I roll different types of dice together?**
+Yes. You can mix and match any combination of die types in a single roll.
+
+---
+
+## Privacy & Data
+
+**Does the app collect any data?**
+No. See our Privacy Policy above for full details.
+
+**Does the app require internet access?**
+No. Dice Roller works entirely offline.
+
+**Is the app safe for kids?**
+Yes. No data is collected, no account is required, and there is no inappropriate content.
