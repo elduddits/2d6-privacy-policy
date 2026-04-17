@@ -76,16 +76,3 @@ Tap anywhere on the scene to roll. The dice will tumble and settle, so you can s
 
 ### **Can I roll different types of dice together?**
 Yes. You can mix and match any combination of die types in a single roll.
-
----
-
-## Privacy & Data
-
-### **Does the app collect any data?**
-No. See our Privacy Policy above for full details.
-
-### **Does the app require internet access?**
-No. 2d6 Dice Roller works entirely offline.
-
-### **Is the app safe for kids?**
-Yes. No data is collected, no account is required, and there is no inappropriate content.
